@@ -1,5 +1,7 @@
 ---
 title: 확률
+sidebar:
+  nav: docs-ko
 key: 20220417
 tags: 통계학
 ---
