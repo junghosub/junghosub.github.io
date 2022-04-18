@@ -18,6 +18,5 @@ docs-ko:
     children:
       - title:  확률의 이해
         url:    2022/04/17/basic-probability.html
-    children:
       - title:  조건부 확률과 독립
         url:    2022/04/17/condition-probability.html
