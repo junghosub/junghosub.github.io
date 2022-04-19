@@ -53,6 +53,7 @@ $$P(A|B) = \frac{P(B|A) P(A)}{P(B)}$$
 
 
 ### 증명
+
 $$P(A|B) = \frac{P(A \cap B)}{P(B)} \rightarrow P(A \cap B) = P(A|B)P(B)$$
 
 $$P(B|A) = \frac{P(A \cap B)}{P(B)} \rightarrow P(A \cap B) = P(B|A)P(A)$$
