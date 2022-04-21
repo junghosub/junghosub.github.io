@@ -26,4 +26,6 @@ docs-ko:
   - title:      조사방법론
     children:
       - title:  과학적 조사
-        url:    2022/04/22/science-ex.html
+        url:    2022/04/21/science-ex.html
+      - title:  연구의 요소
+        url:    2022/04/21/element-of-theory.html
